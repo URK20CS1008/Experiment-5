@@ -22,6 +22,22 @@ h1{
     float:left;
 }
 
-#result{
+#d{
+    padding-left: 50%;
+    padding-top: 50%;
+}
+#b1{
+    background-color: blue;
+    color:white;
     text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    border-radius: 4px;
+}
+
+#result{
+    color: brown;
+    font-size: 25px;
+    text-align: center;
+    display: block;
 }
